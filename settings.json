@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "leonelgaming-X05r.aternos.me",
-    "port": 54221,
+    "ip": "leonelgaming.aternos.me",
+    "port": 27560,
     "version": "",
     "try-creative": false
   },
